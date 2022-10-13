@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Header](./github-header.png)
 
 ## I'm a QA Engineer (junior).  
