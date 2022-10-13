@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 ![Header](./github-header.png)
+
 ## I'm a QA Engineer (junior).  
 ## My CV
 [Link to my CV]()
